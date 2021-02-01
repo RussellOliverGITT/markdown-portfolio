@@ -12,3 +12,7 @@ layout: default
 
 {% include 03-links.md %}
 
+<br>
+
+[GitHub](http://github.com)
+
